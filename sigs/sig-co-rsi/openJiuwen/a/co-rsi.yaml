@@ -1,0 +1,8 @@
+name: co-rsi
+description: CO-RSI orchestrates the evaluation and iterative improvement of AI agents.
+branches:
+- name: develop
+  type: protected
+- name: main
+  type: protected
+type: public
