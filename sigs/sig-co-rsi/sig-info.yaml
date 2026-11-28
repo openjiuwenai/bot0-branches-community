@@ -6,11 +6,11 @@ mature_level: startup
 maintainers:
 - atomgit_id: deyang
   name: lideyang
-  orgnization: Huawei
+  organization: Huawei
   email: lideyang2@huawei.com
 - atomgit_id: guoyork
   name: 郭永康
-  orgnization: Huawei
+  organization: Huawei
   email: guoyongkang8@huawei.com
 repositories:
 - repo:
@@ -18,13 +18,13 @@ repositories:
   committers:
   - atomgit_id: z2tng
     name: zhangzhongteng
-    orgnization: Huawei
+    organization: Huawei
     email: zhangzhongteng1@huawei.com
   - atomgit_id: shiruifeng1116
     name: 石瑞枫
-    orgnization: Huawei
+    organization: Huawei
     email: shiruifeng@huawei.com
   - atomgit_id: liufangchao
     name: 刘方超
-    orgnization: Huawei
+    organization: Huawei
     email: liufangchao@huawei.com
